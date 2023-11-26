@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\bin\Debug\net6.0\targeta de clave.exe
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\bin\Debug\net6.0\targeta de clave.deps.json
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\bin\Debug\net6.0\targeta de clave.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\bin\Debug\net6.0\targeta de clave.dll
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\bin\Debug\net6.0\targeta de clave.pdb
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\obj\Debug\net6.0\targeta de clave.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\obj\Debug\net6.0\targeta de clave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\obj\Debug\net6.0\targeta de clave.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\obj\Debug\net6.0\targeta de clave.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\obj\Debug\net6.0\targeta de clave.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\obj\Debug\net6.0\targeta de clave.dll
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\obj\Debug\net6.0\refint\targeta de clave.dll
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\obj\Debug\net6.0\targeta de clave.pdb
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\obj\Debug\net6.0\targeta de clave.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\Resultado de c#\targeta de clave\targeta de clave\obj\Debug\net6.0\ref\targeta de clave.dll
